@@ -1,5 +1,5 @@
 .jumbotron {
-    background-image: url("/assets/img/placeholder.jpg");
+    background-image: url("/assets/img/background_.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -7,7 +7,7 @@
 }
 
 .jumbotron > h1 {
-    font-family: 'Creepster', cursive;
+    font-family: cursive;
 }
 
 #newburger {
@@ -19,7 +19,7 @@
 }
 
 #lefthead {
-    background-color: #5cb85c;
+    background-color: grey;
     color: white;
     text-align: center;
     font-size: 1.2em;
@@ -30,7 +30,7 @@
 }
 
 #righthead {
-    background-color: #f0ad4e;
+    background-color: #412b0d;
     color: white;
     text-align: center;
     font-size: 1.2em;
